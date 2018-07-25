@@ -28,3 +28,5 @@ export class AppModule { }
 ```
 <pell-editor></pell-editor>
 ```
+
+![stackblitz demo](https://stackblitz.com/edit/angular-q4sdkz)
